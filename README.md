@@ -21,4 +21,4 @@ Dicoding Academy
 ## Screenshot
 
 <img src="assets/screenshot/home.png" height="500em" /> &nbsp; <img src="assets/screenshot/detail.png" height="500em" /> 
-<img src="assets/screenshot/bookmaark.png" height="500em" /> &nbsp; <img src="assets/screenshot/setting.png" height="500em" /> 
+<img src="assets/screenshot/bookmark.png" height="500em" /> &nbsp; <img src="assets/screenshot/setting.png" height="500em" /> 
